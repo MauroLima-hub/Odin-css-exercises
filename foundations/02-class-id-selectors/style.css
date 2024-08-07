@@ -1,3 +1,7 @@
-.odd {background-color: rgba(214, 64, 119, 0.993); font-family: Verdana, 'DejaVu Sans', sans-serif; font-size: 24px;}
+.odd {background-color: rgba(214, 64, 119, 0.993); font-family: Verdana, 'DejaVu Sans', sans-serif;}
 
 #Second {color: #0b0b92; font-size: 36px;}
+
+.odd.third {font-size: 24px;}
+
+#Fourth {background-color: rgb(151, 216, 151); font-size: 24px; font-weight: bold;}
